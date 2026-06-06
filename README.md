@@ -1,4 +1,16 @@
+# 👋 Hi, I'm Ngoc Huyen.
 
+📚 Welcome to my GitHub Profile! I'm a 3rd-year Computer Science student passionate about solving business problems through technology, especially in business analysis and data-driven decision making.
+
+## About Me
+
+* 🔭 Currently exploring: **Business Analysis, Data Analytics, and Requirement Engineering**
+
+* 🧠 Strong foundation in: **Database Systems, Software Engineering, System Analysis & Design, and Data Structures & Algorithms**
+
+* 💡 Interested in: **Business Analysis, Data Analysis, Process Improvement, and Digital Transformation**
+
+* 🎯 Goal: Become a **Business Analyst who bridges business needs and technology solutions**
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:buithingochuyenw37@gmail.com) 
 
